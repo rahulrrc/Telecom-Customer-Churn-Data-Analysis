@@ -113,4 +113,6 @@ The Power BI dashboard (`PowerBI_Dashboard/Customer_churn.pbix`) provides an int
 
 ## Author
 
-[Your Name] — feel free to update this section with your name, LinkedIn, and portfolio link.
+Rahul Ramchandani
+Email- rahulramchand505@gmail.com
+LinkedIn- https://www.linkedin.com/in/rahul-m-ramchandani/
