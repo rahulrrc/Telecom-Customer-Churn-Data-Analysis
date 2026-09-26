@@ -10,7 +10,7 @@ Analyze customer churn for a telecommunications company, identify the key factor
 
 - **7,043 customers analyzed → 26.5% overall churn rate**
 - Highest-risk segment: **month-to-month contract + fiber-optic internet + tenure under 12 months**
-- Full findings and recommendations: [`Docs_and_Architecture/Customer_Churn_Insights_Report.docx`](./Docs_and_Architecture/Customer_Churn_Insights_Report.docx)
+- Full findings and recommendations: [`Docs_and_Architecture/Customer_Churn_Insights_Report.docx`](./Docs_and_Architecture/Customer_Churn_Insights_Report.docx).
 
 ## Tech Stack
 
